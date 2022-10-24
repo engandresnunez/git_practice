@@ -1,0 +1,1 @@
+Basic Git and Github set up from terminal. 
